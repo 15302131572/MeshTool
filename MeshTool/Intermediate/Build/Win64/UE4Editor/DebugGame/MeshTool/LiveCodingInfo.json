@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MeshTool.cpp.obj": [
+			"MeshTool.cpp.obj",
+			"MeshToolCommands.cpp.obj",
+			"MeshToolStyle.cpp.obj"
+		]
+	}
+}
