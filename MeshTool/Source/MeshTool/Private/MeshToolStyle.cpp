@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright CityColor 2024
 
 #include "MeshToolStyle.h"
 #include "Styling/SlateStyleRegistry.h"
